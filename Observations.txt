@@ -1,0 +1,8 @@
+Datatypes
+
+%6.2f means that the result should have atleast 6 non decimal places, and 2 decimal places.
+If the the decimal places is out of bound for the given data type, the places succeeding the limit will be appended with 0
+eg: {
+    float: 3.14285707473754882812500000000000000000000000
+    decimal: 3.14285714285714279370154144999105483293533325
+}
